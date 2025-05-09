@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio - File Update Algorithm
+# Allow List  - File Update Algorithm
 
 ## Project Description
 
